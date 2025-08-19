@@ -3,7 +3,7 @@
 
     4MRNA is a novel approach that enhances molecular replacement specifically tailored for nucleic acid structure determination.
 
-    `HTML` `CSS`
+    `HTML` `CSS` `JavaScript` `Python` `Shell`
 
 2. [4MRNA-G4](https://github.com/S-Ando-Biophysics/4MRNA-G4)
 
