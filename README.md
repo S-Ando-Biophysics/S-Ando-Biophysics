@@ -1,5 +1,3 @@
-# S-Ando-Biophysics
-
 ## Pinned Repositories
 - [4MRNA](https://github.com/S-Ando-Biophysics/4MRNA)
 
@@ -32,3 +30,10 @@ I focus on the analysis of nucleic acid three-dimensional structures at the atom
 I have been advancing fundamental techniques for nucleic acid crystallization and structure determination, as well as conducting structural analyses of many nucleic acids, including a wide variety of modified nucleic acids. 
 
 The purpose of my research is to apply these insights to structure-based drug design (SBDD) of novel nucleic acid therapeutics.
+
+### Papers
+- Ando, S., Takahashi, M., & Kondo, J. (2025). The first report of structural analysis of a nucleic acid using crystals grown in space. _Acta crystallographica. Section F, Structural biology communications_, _81_(Pt 3), 95–100. https://doi.org/10.1107/S2053230X25000810
+- Ando, S., & Kondo, J. (2025), A new approach for nucleic acid structure determination: molecular replacement using massive multi-type models created through helical parameter adjustment. _Nucleic acids research_, in revision.
+
+
+## Links
