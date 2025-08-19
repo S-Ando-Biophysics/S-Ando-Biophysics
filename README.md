@@ -36,7 +36,7 @@ The purpose of my research is to apply these insights to structure-based drug de
 - Ando, S., & Kondo, J. (2025), A new approach for nucleic acid structure determination: molecular replacement using massive multi-type models created through helical parameter adjustment. _Nucleic acids research_, in revision.
 
 <！--
-## Links
+Links
 
 | :----- | :----- |
 | Instagram | https://instagram.com/s.ando_biophysics |
