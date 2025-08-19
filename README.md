@@ -3,6 +3,8 @@
 
     4MRNA is a novel approach that enhances molecular replacement specifically tailored for nucleic acid structure determination.
 
+    HTML CSS
+
 2. [4MRNA-G4](https://github.com/S-Ando-Biophysics/4MRNA-G4)
 
     4MRNA-G4 is a novel approach that enhances molecular replacement specifically tailored for NA G-quadruplex structure determination.
@@ -19,7 +21,7 @@
 - Discipline: Biophysics, Structural Biology, Nucleic Acid Science
 
 ## Research Theme
-I specialize in structural biology, focusing on the analysis of nucleic acid three-dimensional structures at the atomic and molecular levels using biophysical techniques such as X-ray crystallography. 
+I focus on the analysis of nucleic acid three-dimensional structures at the atomic or molecular levels using biophysical techniques such as X-ray crystallography. 
 
 I have been advancing fundamental techniques for nucleic acid crystallization and structure determination, as well as conducting structural analyses of many nucleic acids, including a wide variety of modified nucleic acids. 
 
