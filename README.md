@@ -9,13 +9,17 @@
 
     4MRNA-G4 is a novel approach that enhances molecular replacement specifically tailored for NA G-quadruplex structure determination.
 
+    `HTML` `CSS` `JavaScript` `Shell`
+
 3. [Cal-Nm](https://github.com/S-Ando-Biophysics/Cal-Nm)
 
     Calculator of the number of nucleic acid molecules in the asymmetric unit of the crystal based on Matthews coefficient
 
+    `HTML` `CSS `JavaScript`
+
 # Profile
 ## Basic Information
-- Affiliation: Biological Science Division, Graduate School of Science and Technology, Sophia University
+- **Affiliation**: Biological Science Division, Graduate School of Science and Technology, Sophia University
 - Position: 2nd year student of master's program
 - Degree: Master of Science in Biological Science
 - Discipline: Biophysics, Structural Biology, Nucleic Acid Science
