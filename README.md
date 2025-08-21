@@ -1,4 +1,4 @@
-## Pinned Repositories
+# Pinned Repositories
 ### [4MRNA](https://github.com/S-Ando-Biophysics/4MRNA)
 
 4MRNA is a novel approach that enhances molecular replacement specifically tailored for nucleic acid structure determination.
