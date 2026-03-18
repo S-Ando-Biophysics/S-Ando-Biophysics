@@ -11,7 +11,7 @@ Calculator of the number of nucleic acid molecules in the asymmetric unit of the
 
 `HTML` `CSS` `JavaScript`
 
-### [P-NATS](https://github.com/S-Ando-Biophysics/P-NATS) (v1.0)
+### [P-NATS](https://github.com/S-Ando-Biophysics/P-NATS) (v1.1)
 
 Purifier of Nucleic Acid Three-dimensional Structures
 
