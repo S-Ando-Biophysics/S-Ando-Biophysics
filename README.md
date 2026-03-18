@@ -11,7 +11,7 @@ Calculator of the number of nucleic acid molecules in the asymmetric unit of the
 
 `HTML` `CSS` `JavaScript`
 
-### [S-NAXS](https://github.com/S-Ando-Biophysics/S-NAXS) (Beta)
+### [P-NATS](https://github.com/S-Ando-Biophysics/P-NATS) (v1.0)
 
 Standardizer of Nucleic Acid X-ray Structures
 
