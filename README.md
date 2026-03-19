@@ -1,9 +1,19 @@
 # Pinned Repositories
 ### [4MRNA](https://github.com/S-Ando-Biophysics/4MRNA) (v2.0)
 
-4MRNA is a novel approach that enhances molecular replacement specifically tailored for nucleic acid structure determination.
+Massive Multi-type Model Molecular Replacement for Nucleic Acids 
+
+4MRNA is a novel method that enhances molecular replacement specifically tailored for nucleic acid structure determination.
 
 `Shell` `Python`
+
+### [4MRNA-G4](https://github.com/S-Ando-Biophysics/4MRNA-G4) (Beta)
+
+Massive Multi-type Model Molecular Replacement for Nucleic Acid G-quadruplexes
+
+4MRNA-G4 is a novel approach that enhances molecular replacement specifically tailored for Nucleic Acid G-quadruplex structure determination.
+
+`HTML` `CSS` `JavaScript` `Shell`
 
 ### [Cal-Nm](https://github.com/S-Ando-Biophysics/Cal-Nm)
 
@@ -15,13 +25,8 @@ Calculator of the number of nucleic acid molecules in the asymmetric unit of the
 
 Purifier of Nucleic Acid Three-dimensional Structures
 
+P-NATS is a tool that automatically standardizes known nucleic acid structures and can be used for applications such as preprocessing for molecular replacement.
+
 `Shell` `Python` 
-
-
-### [4MRNA-G4](https://github.com/S-Ando-Biophysics/4MRNA-G4) (Beta)
-
-4MRNA-G4 is a novel approach that enhances molecular replacement specifically tailored for NA G-quadruplex structure determination.
-
-`HTML` `CSS` `JavaScript` `Shell`
 
 <br>
