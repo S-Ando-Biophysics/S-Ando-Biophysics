@@ -1,5 +1,5 @@
 # Pinned Repositories
-### [4MRNA](https://github.com/S-Ando-Biophysics/4MRNA) (Software, v2.0)
+### [4MRNA](https://github.com/S-Ando-Biophysics/4MRNA)
 
 Massive Multi-type Model Molecular Replacement for Nucleic Acids 
 
@@ -7,7 +7,7 @@ Massive Multi-type Model Molecular Replacement for Nucleic Acids
 
 `Shell` `Python`
 
-### [4MRNA-G4](https://github.com/S-Ando-Biophysics/4MRNA-G4) (Website, Beta)
+### [4MRNA-G4](https://github.com/S-Ando-Biophysics/4MRNA-G4) (Beta)
 
 Massive Multi-type Model Molecular Replacement for Nucleic Acid G-quadruplexes
 
@@ -15,13 +15,13 @@ Massive Multi-type Model Molecular Replacement for Nucleic Acid G-quadruplexes
 
 `HTML` `CSS` `JavaScript` `Shell`
 
-### [Cal-Nm](https://github.com/S-Ando-Biophysics/Cal-Nm) (Website)
+### [Cal-Nm](https://github.com/S-Ando-Biophysics/Cal-Nm)
 
 Calculator of the number of nucleic acid molecules in the asymmetric unit of the crystal based on Matthews coefficient
 
 `HTML` `CSS` `JavaScript`
 
-### [P-NATS](https://github.com/S-Ando-Biophysics/P-NATS) (Software, v1.1)
+### [P-NATS](https://github.com/S-Ando-Biophysics/P-NATS)
 
 Purifier of Nucleic Acid Three-dimensional Structures
 
@@ -29,7 +29,7 @@ P-NATS is a tool that automatically standardizes known nucleic acid structures a
 
 `Shell` `Python` 
 
-### [P-NATS-DB](https://github.com/S-Ando-Biophysics/P-NATS-DB) (Software, v1.1)
+### [P-NATS-DB](https://github.com/S-Ando-Biophysics/P-NATS-DB)
 
 P-NATS DataBase (Purified Nucleic Acid Three-dimensional Structure DataBase)
 
