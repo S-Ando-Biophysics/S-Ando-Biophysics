@@ -29,7 +29,7 @@ P-NATS is a tool that automatically standardizes known nucleic acid structures a
 
 `Shell` `Python` 
 
-### [P-NATS](https://github.com/S-Ando-Biophysics/P-NATS-DB) (Software, v1.1)
+### [P-NATS-DB](https://github.com/S-Ando-Biophysics/P-NATS-DB) (Software, v1.1)
 
 P-NATS DataBase (Purified Nucleic Acid Three-dimensional Structure DataBase)
 
